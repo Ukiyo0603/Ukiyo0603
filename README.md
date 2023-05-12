@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ukiyo0603
 - 👀 I’m interested in Web development, Data Science
-- 🌱 I’m currently learning Flask, reactJs
+- 🌱 I’m currently learning Flask, Django
 - 💞️ I’m looking to collaborate on and projects/activities that would help me grow and learn new things.
 - 📫 How to reach me, drop a mail at shivani010603@gmail.com
 
